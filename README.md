@@ -1,5 +1,5 @@
 # try-partition-supervisor
-trying out the Elixir partition supervisor.
+Trying out the Elixir partition supervisor...
 
 This is based on Sophie DeBenedetto's article
 *Fix Process Bottlenecks with Elixir 1.14's Partition Supervisor*
